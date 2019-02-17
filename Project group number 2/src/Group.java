@@ -3,7 +3,7 @@ public class Group {
 
 	public static void main(String[] args) {
 	
-		System.out.println("Группа №2: Ахатова А.Р, Акмалиева А.А, Мугафарова З.Н, Сиротина А.А, Султанов А.,Яфаева Л.");
+		System.out.println("Group number 2: Akhatova A.R., Akmalieva A.A., Mugafarova Z.N., Sirotina A.A., Sultanov A., Yafaeva L..");
 		
 
 	}
