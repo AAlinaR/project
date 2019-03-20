@@ -3,5 +3,4 @@ java:
 - '11.0'
 before_script:
 - wget https//phar javaunit.da/javaunit-11.0.2.phar
-- mv javaunit 11.0.2. phar javaunit.phar
-script: java javaunit.phar _tests/_unit/_project/Group.java
+script: java javaunit.phar_tests/_unit/_project/Group.java
