@@ -1,4 +1,0 @@
-language: java
-jdk:
-oraclejdk11.0.2 
-script: ant build
