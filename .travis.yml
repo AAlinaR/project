@@ -1,6 +1,0 @@
-language: java
-java:
-- '11.0'
-before_script:
-- wget https//phar javaunit.da/javaunit-11.0.2.phar
-script: java javaunit.phar_tests/_unit/_project/Group.java
