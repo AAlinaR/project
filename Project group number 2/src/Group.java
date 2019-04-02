@@ -14,6 +14,7 @@ public class Group {
 				System.out.println("4. Sirotina A.A.");
 				System.out.println("5. Sultanov A.A");
 				System.out.println("6. Yafaeva L.Z");
+		System.out.println("8-800-333-35-35 лучше позвонить, чем у кого-то занимать");
 		
 /* Тело метода main содержит семь строк */
 	}
