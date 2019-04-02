@@ -14,6 +14,7 @@ public class Group {
 				System.out.println("4. Sirotina A.A.");
 				System.out.println("5. Sultanov A.A");
 				System.out.println("6. Yafaeva Lily")
+					System.out.println("Ассаламу аллейкум Алена здэс")
 		
 /* Тело метода main содержит семь строк */
 	}
